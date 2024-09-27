@@ -1,0 +1,2 @@
+# Used Car Price Prediction
+This project aims to build a machine learning model that predicts the selling price of used cars based on various factors such as age, mileage, brand, model, and other features. The goal is to provide a tool that helps individuals and businesses estimate the market value of a used car, facilitating informed buying or selling decisions.
